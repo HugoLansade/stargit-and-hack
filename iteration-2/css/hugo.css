@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body{
+    font-family: "Poppins";
+    background-color: #25CDFF;
+}
+
+.header-img{
+    background-image: src ="./image/hike.jpg";
+    background-position : 0 0;
+    background-repeat : no-repeat;
+    
+
+}
+
+.cloud-see{
+    width : 100%;
+}
+
+.name{
+    color: white;
+}
