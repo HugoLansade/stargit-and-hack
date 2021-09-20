@@ -1,0 +1,17 @@
+/* Header*/
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav-bar li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.quote {
+    font-size: xx-large;
+    text-align: center;
+}
+/* /Header */
