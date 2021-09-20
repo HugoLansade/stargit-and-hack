@@ -10,6 +10,10 @@
     text-decoration: none;
 }
 
+.nav-bar li a {
+    text-decoration: none;
+}
+
 .quote {
     font-size: xx-large;
     text-align: center;
