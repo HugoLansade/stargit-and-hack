@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body{
+    font-family: "Poppins";
+    background-color: #FFBF25;
+}
+
+article{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.footer-text{
+    color: white;
+}
