@@ -5,19 +5,39 @@ body{
     background-color: #FFBF25;
 }
 
+/* Header*/
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav-bar li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.quote {
+    font-size: xx-large;
+    text-align: center;
+}
+/* /Header end */
+
+
 article{
     text-align: center;
 }
 
+/* footer*/
 footer{
     background-color: black;
+    height: 300px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    
-
 }
 
 .footer-text{
     color: white;
 }
+/* footer end*/
