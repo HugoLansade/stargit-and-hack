@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body{
+    font-family: "Poppins";
+    background-color: #FFBF25;
+}
+
 /* Header*/
 .nav-bar {
     display: flex;
@@ -7,7 +14,7 @@
 
 .nav-bar li {
     list-style: none;
-    text-decoration: none;
+    font-size: large;
 }
 
 .nav-bar li a {
@@ -18,4 +25,30 @@
     font-size: xx-large;
     text-align: center;
 }
-/* /Header */
+
+#img {
+    display: flex;
+    justify-content: center;
+    height: 420px;
+}
+
+/* /Header end */
+
+
+article{
+    text-align: center;
+}
+
+/* footer*/
+footer{
+    background-color: black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-text{
+    color: white;
+}
+/* footer end*/
