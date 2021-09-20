@@ -23,6 +23,12 @@ body{
 }
 /* /Header end */
 
+.we-came-here-to{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+   /* border: 2px solid black;*/
+}
 
 article{
     text-align: center;
